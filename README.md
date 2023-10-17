@@ -4,24 +4,27 @@
 
 ## 今日早读
 
-今日短句：路遥知马力，日久见人心。
+今日短句：温故而知新。
 
-Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具
-https://github.com/ad-calcium/CVE-2023-22515
+OA综合利用工具，集合将近20款OA漏洞批量扫描
+https://github.com/LittleBear4/OA-EXPTOOL
 
-Burp插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等）
-https://github.com/f0ng/autoDecoder
+TsojanScan：一个集成化BurpSuite漏洞探测插件
+https://github.com/Tsojan/TsojanScan
 
-盘点近年来的数据泄露、供应链污染事件
-https://github.com/ffffffff0x/Dork-Admin
+帆软 channel 反序列化漏洞 RCE
+https://github.com/Avento/FineReport_channel_Deserialization_Vulnerabilities_RCE
 
-一个轻量级的 socks5 代理, 带简单加密传输功能, 可穿透 GFW
-https://github.com/hmgle/socks5_c
+dddd（带带弟弟），是一款支持多种输入格式，主/被动指纹识别且使用简单的供应链漏洞探测工具。
+https://github.com/SleepingBag945/dddd
 
-使用Telegram作为存储的文件外链系统，可以作为图床使用，也可以作为网盘使用。
-https://github.com/csznet/tgState
+一款用 Java（spring boot） 实现的现代化社区
+https://github.com/Qbian61/forum-java
 
-微信聊天记录持久化备份本地硬盘，释放手机存储空间。
-https://github.com/greycodee/wechat-backup
+MacOS下的微信小程序工具
+https://github.com/ac0d3r/wxapkg
+
+一种安全加密数据的方式，数据可以实现自校验，防止数据损坏和篡改
+https://github.com/jan-bar/EncryptionFile
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
