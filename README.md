@@ -4,27 +4,21 @@
 
 ## 今日早读
 
-今日短句：温故而知新。
+今日短句：三个臭皮匠顶个诸葛亮。
 
-OA综合利用工具，集合将近20款OA漏洞批量扫描
-https://github.com/LittleBear4/OA-EXPTOOL
+蜂鸟物联网平台是由Golang编写的超轻量级物联网平台
+https://github.com/winc-link/hummingbird
 
-TsojanScan：一个集成化BurpSuite漏洞探测插件
-https://github.com/Tsojan/TsojanScan
+网络摄像头漏洞扫描工具
+https://github.com/jorhelp/Ingram
 
-帆软 channel 反序列化漏洞 RCE
-https://github.com/Avento/FineReport_channel_Deserialization_Vulnerabilities_RCE
+NPS 漏洞利用工具
+https://github.com/weishen250/npscrack
 
-dddd（带带弟弟），是一款支持多种输入格式，主/被动指纹识别且使用简单的供应链漏洞探测工具。
-https://github.com/SleepingBag945/dddd
+域内自动化信息搜集利用工具
+https://github.com/wjlab/Darksteel
 
-一款用 Java（spring boot） 实现的现代化社区
-https://github.com/Qbian61/forum-java
-
-MacOS下的微信小程序工具
-https://github.com/ac0d3r/wxapkg
-
-一种安全加密数据的方式，数据可以实现自校验，防止数据损坏和篡改
-https://github.com/jan-bar/EncryptionFile
+十大集权设施基线扫描工具
+https://github.com/Amulab/CAudit
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
