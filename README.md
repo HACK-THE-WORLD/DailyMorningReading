@@ -4,21 +4,27 @@
 
 ## 今日早读
 
-今日短句：三个臭皮匠顶个诸葛亮。
+今日短句：知道你自己想要什么然后毫无畏惧地去追求它。
 
-蜂鸟物联网平台是由Golang编写的超轻量级物联网平台
-https://github.com/winc-link/hummingbird
+Onescan：被动与主动式递归目录扫描
+https://github.com/vaycore/OneScan
 
-网络摄像头漏洞扫描工具
-https://github.com/jorhelp/Ingram
+被在野利用的0day漏洞信息库
+https://github.com/googleprojectzero/0days-in-the-wild
 
-NPS 漏洞利用工具
-https://github.com/weishen250/npscrack
+红蓝对抗：钓鱼演练资源汇总&备忘录
+https://github.com/tib36/PhishingBook
 
-域内自动化信息搜集利用工具
-https://github.com/wjlab/Darksteel
+FastJson全版本Docker漏洞环境
+https://github.com/lemono0/FastJsonParty
 
-十大集权设施基线扫描工具
-https://github.com/Amulab/CAudit
+基于 OpenJDK 8u 最新版本的安全加强分支
+https://github.com/Y4Sec-Team/jdk8u
+
+域名SSL证书监测平台
+https://github.com/mouday/domain-admin
+
+沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译
+https://github.com/immersive-translate/immersive-translate
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
