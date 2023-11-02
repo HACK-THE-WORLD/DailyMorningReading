@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：如果拿望远镜去看别人，就会拿放大镜来看自己。
+今日短句：以恒心为良友，以经验为参谋，以小心为兄弟，以希望为哨兵。
 
-利用带签名驱动的任意地址读/写实现：完全致盲、或杀死、或永久关闭 AV/EDR。
-https://github.com/myzxcg/RealBlindingEDR
+支持自定义Poc文件的图形化漏洞利用工具
+https://github.com/bcvgh/daydayEXP
 
-Sign-Sacker(签名掠夺者)：一款数字签名复制器，可将其他官方exe中数字签名，图标，详细信息复制到没有签名的exe中，作为免杀，权限维持，伪装的一种小手段。
-https://github.com/langsasec/Sign-Sacker
+CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。
+https://github.com/webraybtl/CodeQLpy
 
-LdrLockLiberator 是一套在 DllMain 或其他可能存在加载锁的地方执行代码时逃避或放弃加载锁的技术。
-https://github.com/ElliotKillick/LdrLockLiberator
+一个高价值漏洞采集与推送服务
+https://github.com/yuligesec/watchvuln
 
-Android高级保活：使用 binder ioctl 对抗 Android 上的强制停止 kill 进程
-https://github.com/lcodecorex/KeepAlive
+利用EFSRPC协议(PetitPotam)通过PING外网域名的方式批量探测windows出网机器
+https://github.com/StarfireLab/EFSRPCrpc
 
-Navicat16最新版本的注册机
-https://github.com/LiJunYi2/navicat-keygen-16V
+superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描
+https://github.com/dark-kingA/superSearchPlus
 
-聊天服务器的最小编程示例
-https://github.com/antirez/smallchat
+OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
+https://github.com/hiroi-sora/Umi-OCR
 
-中国运营商IPv4/IPv6地址库-每日更新
-https://github.com/gaoyifan/china-operator-ip
+互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
+https://github.com/justjavac/ali-words
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
