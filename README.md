@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：以恒心为良友，以经验为参谋，以小心为兄弟，以希望为哨兵。
+今日短句：行动是成功的阶梯，行动越多，登得越高。
 
-支持自定义Poc文件的图形化漏洞利用工具
-https://github.com/bcvgh/daydayEXP
+Komo 一个综合资产收集和漏洞扫描工具，集成了20余款工具
+https://github.com/komomon/Komo
 
-CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。
-https://github.com/webraybtl/CodeQLpy
+从零学习Webshell免杀手册
+https://github.com/AabyssZG/WebShell-Bypass-Guide
 
-一个高价值漏洞采集与推送服务
-https://github.com/yuligesec/watchvuln
+各种漏洞批量扫描poc、exp，涵盖未授权、RCE、文件上传、sql注入、信息泄露等
+https://github.com/MzzdToT/HAC_Bored_Writing
 
-利用EFSRPC协议(PetitPotam)通过PING外网域名的方式批量探测windows出网机器
-https://github.com/StarfireLab/EFSRPCrpc
+自己搜集的爆破字典，包括常用用户名、密码弱口令、SQL万能密码等
+https://github.com/shadowabi/S-BlastingDictionary
 
-superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描
-https://github.com/dark-kingA/superSearchPlus
+c 语言实现的一个最小的http代理，支持翻墙
+https://github.com/examplecode/mproxy
 
-OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
-https://github.com/hiroi-sora/Umi-OCR
-
-互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
-https://github.com/justjavac/ali-words
+这是一个致力于用C++和win32api打造的开源第三方网易云音乐。
+https://github.com/heyManNice/EasyMusic
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
