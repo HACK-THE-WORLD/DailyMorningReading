@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：行动是成功的阶梯，行动越多，登得越高。
+今日短句：成功不是将来才有的，而是从决定去做的那一刻起，持续累积。
 
-Komo 一个综合资产收集和漏洞扫描工具，集成了20余款工具
-https://github.com/komomon/Komo
+《云安全攻防入门》教材
+https://github.com/EvilAnne/lzCloudSecurity
 
-从零学习Webshell免杀手册
-https://github.com/AabyssZG/WebShell-Bypass-Guide
+命令执行不回显但DNS协议出网的命令回显场景解决方案
+https://github.com/A0WaQ4/HexDnsEchoT
 
-各种漏洞批量扫描poc、exp，涵盖未授权、RCE、文件上传、sql注入、信息泄露等
-https://github.com/MzzdToT/HAC_Bored_Writing
+java代码审计学习笔记
+https://github.com/proudwind/javasec_study
 
-自己搜集的爆破字典，包括常用用户名、密码弱口令、SQL万能密码等
-https://github.com/shadowabi/S-BlastingDictionary
+MySQL JDBC Attack的小技巧
+https://github.com/Y4Sec-Team/mysql-jdbc-tricks
 
-c 语言实现的一个最小的http代理，支持翻墙
-https://github.com/examplecode/mproxy
+Jar Analyzer 是一个分析 Jar 文件的 GUI 工具
+https://github.com/jar-analyzer/jar-analyzer
 
-这是一个致力于用C++和win32api打造的开源第三方网易云音乐。
-https://github.com/heyManNice/EasyMusic
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
+https://github.com/AnsonZnl/RehabilitationGuide
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
