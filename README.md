@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：成功不是将来才有的，而是从决定去做的那一刻起，持续累积。
+今日短句：环境永远不会十全十美，消极的人受环境控制，积极的人却控制环境。
 
-《云安全攻防入门》教材
-https://github.com/EvilAnne/lzCloudSecurity
+一个开箱即用的windows渗透测试环境
+https://github.com/arch3rPro/Pentest-Windows
 
-命令执行不回显但DNS协议出网的命令回显场景解决方案
-https://github.com/A0WaQ4/HexDnsEchoT
+监控工具，可检查不同时间段（每小时、每天、每周、每月）的网页内容，并检测自上次检查以来是否修改了网页内容。
+https://github.com/ahussam/url-tracker
 
-java代码审计学习笔记
-https://github.com/proudwind/javasec_study
+一个Vulhub漏洞复现知识库
+https://github.com/Threekiii/Vulhub-Reproduce
 
-MySQL JDBC Attack的小技巧
-https://github.com/Y4Sec-Team/mysql-jdbc-tricks
+代码审计知识点整理-Java
+https://github.com/7hang/--Java
 
-Jar Analyzer 是一个分析 Jar 文件的 GUI 工具
-https://github.com/jar-analyzer/jar-analyzer
+OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。提供各种语言API。由 PaddleOCR C++ 编译。
+https://github.com/hiroi-sora/PaddleOCR-json
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
-https://github.com/AnsonZnl/RehabilitationGuide
+整理渗透测试、内网渗透、应急响应、密码字典、漏洞库、代码审计、渗透测试面试题相关项目
+https://github.com/j2ekim/Pentest_Project
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
