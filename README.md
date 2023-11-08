@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：环境永远不会十全十美，消极的人受环境控制，积极的人却控制环境。
+今日短句：将事前的忧虑，换为事前的思考和计划。
 
-一个开箱即用的windows渗透测试环境
-https://github.com/arch3rPro/Pentest-Windows
+面向红队的，高度可控可拓展的自动化引擎
+https://github.com/chainreactors/gogo
 
-监控工具，可检查不同时间段（每小时、每天、每周、每月）的网页内容，并检测自上次检查以来是否修改了网页内容。
-https://github.com/ahussam/url-tracker
+DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、漏洞URL截屏、消息通知。
+https://github.com/Bywalks/DarkAngel
 
-一个Vulhub漏洞复现知识库
-https://github.com/Threekiii/Vulhub-Reproduce
+用友NC系列漏洞检测利用工具，支持一键检测、命令执行回显、文件落地、一键打入内存马、文件读取等
+https://github.com/wgpsec/YongYouNcTool
 
-代码审计知识点整理-Java
-https://github.com/7hang/--Java
+Vcenter综合渗透利用工具包
+https://github.com/W01fh4cker/VcenterKit
 
-OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。提供各种语言API。由 PaddleOCR C++ 编译。
-https://github.com/hiroi-sora/PaddleOCR-json
+Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
+https://github.com/tdragon6/Supershell
 
-整理渗透测试、内网渗透、应急响应、密码字典、漏洞库、代码审计、渗透测试面试题相关项目
-https://github.com/j2ekim/Pentest_Project
+nps魔改，进行了流量特征的魔改，并且进行了漏洞的修复
+https://github.com/Q16G/npsmodify
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
