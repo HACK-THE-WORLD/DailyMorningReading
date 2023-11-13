@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：将事前的忧虑，换为事前的思考和计划。
+今日短句：两粒种子，有水有土壤，即一片森林。
 
-面向红队的，高度可控可拓展的自动化引擎
-https://github.com/chainreactors/gogo
+【Hello CTF】收录国内网络安全以及CTF领域的优秀视频作者
+https://github.com/ProbiusOfficial/Awsome-Sec.CTF-Videomaker
 
-DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、漏洞URL截屏、消息通知。
-https://github.com/Bywalks/DarkAngel
+JavaScript 静态安全分析工具
+https://github.com/dpnishant/jsprime
 
-用友NC系列漏洞检测利用工具，支持一键检测、命令执行回显、文件落地、一键打入内存马、文件读取等
-https://github.com/wgpsec/YongYouNcTool
+致力于最好懂的数据结构与算法专栏
+https://github.com/javasmall/bigsai-algorithm
 
-Vcenter综合渗透利用工具包
-https://github.com/W01fh4cker/VcenterKit
+一个小巧、轻量的浏览器内核，用来取代wke和libcef
+https://github.com/weolar/miniblink49
 
-Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
-https://github.com/tdragon6/Supershell
+Spray 是一款用于 C 代码的小型调试器
+https://github.com/d4ckard/spray
 
-nps魔改，进行了流量特征的魔改，并且进行了漏洞的修复
-https://github.com/Q16G/npsmodify
+学习用 Rust 编写嵌入式操作系统
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
