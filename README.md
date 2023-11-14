@@ -4,24 +4,27 @@
 
 ## 今日早读
 
-今日短句：两粒种子，有水有土壤，即一片森林。
+今日短句：人的一生可能燃烧也可能腐朽。
 
-【Hello CTF】收录国内网络安全以及CTF领域的优秀视频作者
-https://github.com/ProbiusOfficial/Awsome-Sec.CTF-Videomaker
+MDPOCS：PoC集合项目仓库
+https://github.com/MD-SEC/MDPOCS
 
-JavaScript 静态安全分析工具
-https://github.com/dpnishant/jsprime
+基于已知网站 ssl 证书的信息生成新的自签名证书
+https://github.com/virusdefender/copy-cert
 
-致力于最好懂的数据结构与算法专栏
-https://github.com/javasmall/bigsai-algorithm
+D-Eyes为绿盟科技一款检测与响应工具
+https://github.com/m-sec-org/d-eyes
 
-一个小巧、轻量的浏览器内核，用来取代wke和libcef
-https://github.com/weolar/miniblink49
+从零学习AWD比赛指导手册以及AWD脚本整理
+https://github.com/AabyssZG/AWD-Guide
 
-Spray 是一款用于 C 代码的小型调试器
-https://github.com/d4ckard/spray
+一些高危漏洞利用工具的集合
+https://github.com/White-hua/Apt_t00ls
 
-学习用 Rust 编写嵌入式操作系统
-https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+USB鼠标流量包取证工具 , 主要用于绘制鼠标移动以及拖动轨迹
+https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer
+
+PeiQi：面向网络安全从业者的知识文库
+https://github.com/PeiQi0/PeiQi-WIKI-Book
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
