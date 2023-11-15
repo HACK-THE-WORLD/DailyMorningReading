@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：人的一生可能燃烧也可能腐朽。
+今日短句：高峰只对攀登它而不是仰望它的人来说才有真正意义。
 
-MDPOCS：PoC集合项目仓库
-https://github.com/MD-SEC/MDPOCS
+Burpy：搭建起BurpSuite与Python的桥梁，使得加密请求更方便在Burp上处理
+https://github.com/mr-m0nst3r/Burpy
 
-基于已知网站 ssl 证书的信息生成新的自签名证书
-https://github.com/virusdefender/copy-cert
+一个想帮你总结所有类型的上传漏洞的靶场
+https://github.com/c0ny1/upload-labs
 
-D-Eyes为绿盟科技一款检测与响应工具
-https://github.com/m-sec-org/d-eyes
+XPoC：为供应链漏洞扫描设计的快速应急响应工具
+https://github.com/chaitin/xpoc
 
-从零学习AWD比赛指导手册以及AWD脚本整理
-https://github.com/AabyssZG/AWD-Guide
+r0chrome是一款对chromium源码进行定制的浏览器,支持爬虫/JS逆向工程师进行辅助分析网页
+https://github.com/daisixuan/r0chrome
 
-一些高危漏洞利用工具的集合
-https://github.com/White-hua/Apt_t00ls
+简单而强大的 Rust HTTP 客户端
+https://github.com/seanmonstar/reqwest
 
-USB鼠标流量包取证工具 , 主要用于绘制鼠标移动以及拖动轨迹
-https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer
-
-PeiQi：面向网络安全从业者的知识文库
-https://github.com/PeiQi0/PeiQi-WIKI-Book
+DeepL翻译免费API
+https://github.com/OwO-Network/DeepLX
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
