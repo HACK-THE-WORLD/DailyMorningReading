@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：高峰只对攀登它而不是仰望它的人来说才有真正意义。
+今日短句：其业精于勤，荒于戏。行成于思，毁于随。
 
-Burpy：搭建起BurpSuite与Python的桥梁，使得加密请求更方便在Burp上处理
-https://github.com/mr-m0nst3r/Burpy
+Pillager是一个适用于后渗透期间的信息收集工具
+https://github.com/qwqdanchun/Pillager
 
-一个想帮你总结所有类型的上传漏洞的靶场
-https://github.com/c0ny1/upload-labs
+主要记录网络安全学习笔记，包含WEB基础、提权、APP渗透、内网横向移动、工具学习等
+https://github.com/djytmdj/Network-security-study-notes
 
-XPoC：为供应链漏洞扫描设计的快速应急响应工具
-https://github.com/chaitin/xpoc
+绕过 EDR 钩子，以反射方式在本地和远程加载和执行 PE 文件
+https://github.com/cpu0x00/SharpReflectivePEInjection
 
-r0chrome是一款对chromium源码进行定制的浏览器,支持爬虫/JS逆向工程师进行辅助分析网页
-https://github.com/daisixuan/r0chrome
+千机-红队免杀木马自动生成器，Bypass国内主流杀软，随机加密混淆shellcode快速生成免杀马
+https://github.com/Pizz33/Qianji
 
-简单而强大的 Rust HTTP 客户端
-https://github.com/seanmonstar/reqwest
+一个高价值漏洞采集与推送服务
+https://github.com/zema1/watchvuln
 
-DeepL翻译免费API
-https://github.com/OwO-Network/DeepLX
+DRat是一个去中心化远程控制工具，可以实现在没有服务端和配置文件服务器的情况下实现远程控制和配置下发。
+https://github.com/SpenserCai/DRat
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
