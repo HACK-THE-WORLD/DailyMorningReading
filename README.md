@@ -4,24 +4,27 @@
 
 ## 今日早读
 
-今日短句：其业精于勤，荒于戏。行成于思，毁于随。
+今日短句：生活坏到一定程度就会好起来，因为它无法更坏。努力过后，才知道许多事情，坚持坚持，就过来了。
 
-Pillager是一个适用于后渗透期间的信息收集工具
-https://github.com/qwqdanchun/Pillager
+海康威视综合安防管理平台任意文件上传 POC&EXP
+https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE
 
-主要记录网络安全学习笔记，包含WEB基础、提权、APP渗透、内网横向移动、工具学习等
-https://github.com/djytmdj/Network-security-study-notes
+用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用
+https://github.com/Hutt0n0/ActiveMqRCE
 
-绕过 EDR 钩子，以反射方式在本地和远程加载和执行 PE 文件
-https://github.com/cpu0x00/SharpReflectivePEInjection
+用 Rust 编写 Windows 内核 Rookit
+https://github.com/memN0ps/rootkit-rs
 
-千机-红队免杀木马自动生成器，Bypass国内主流杀软，随机加密混淆shellcode快速生成免杀马
-https://github.com/Pizz33/Qianji
+fuzzuli 是一款 url 模糊工具，旨在通过创建基于域名的动态字典来查找关键备份文件。
+https://github.com/musana/fuzzuli
 
-一个高价值漏洞采集与推送服务
-https://github.com/zema1/watchvuln
+用于将 js 代码注入Electron程序的注入工具
+https://github.com/DiamondHunters/NodeInject
 
-DRat是一个去中心化远程控制工具，可以实现在没有服务端和配置文件服务器的情况下实现远程控制和配置下发。
-https://github.com/SpenserCai/DRat
+一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
+https://github.com/sorabug/ChangeTimestamp
+
+ICP备案查询，可查询企业或域名的ICP备案信息，自动完成滑动验证，保存结果到Excel表格，适用于新版的工信部备案管理系统网站
+https://github.com/wongzeon/ICP-Checker
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
