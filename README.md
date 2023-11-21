@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：知识给人重量，成就给人光彩，大多数人只是看到了光彩，而不去称量重量。
+今日短句：单是说不行，要紧的是做。
 
-zphisher：一个带有30+模板的自动化钓鱼工具
-https://github.com/htr-tech/zphisher
+各种漏洞poc、Exp的收集或编写
+https://github.com/coffeehb/Some-PoC-oR-ExP
 
-Appshark 是一个针对安卓的静态分析工具，它的设计目标是针对超大型App的分析，发现安全漏洞以及隐私合规问题
-https://github.com/bytedance/appshark
+这个仓库包含了CVE-2023-36427的报告和漏洞利用代码，该漏洞在Windows的根分区上导致任意物理地址的内存破坏
+https://github.com/tandasat/CVE-2023-36427
 
-一款java漏洞集合工具，包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j等漏洞检测利用模块
-https://github.com/pureqh/Hyacinth
+.NET实现的shellcode加载器大集合，不断更新中
+https://github.com/Ivan1ee/.NET4Loader
 
-网络安全类公众号收录项目，本项目共分为18大类，收集公众号1321个
-https://github.com/DropsOfZut/awesome-security-weixin-official-accounts
+纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token 
+https://github.com/ztxz16/fastllm
 
-Moneta是一款用于Windows的实时用户模式内存分析工具，具有检测恶意软件IOCs（指示器）的能力。
-https://github.com/forrest-orr/moneta
+PC端微信逆向学习，本项目是逆向练习项目
+https://github.com/ttttupup/wxhelper
 
-将JS逆向时用到的一些工具封装为油猴脚本，降低逆向成本。
-https://github.com/JSREI/crawler-js-hook-framework-public
+只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
+https://github.com/xxxxxxxx666/WeChatDevTools
 
-用小米 AI 音箱来使用 ChatGPT 和其他 LLM
-https://github.com/yihong0618/xiaogpt
-
-搞机助手·R，为Android玩机爱好者提供一些便利功能
-https://github.com/liuran001/GJZS
+免费的 ChatGPT 镜像网站列表，持续更新
+https://github.com/LiLittleCat/awesome-free-chatgpt
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
