@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：单是说不行，要紧的是做。
+今日短句：不要因为众生的愚疑，而带来了自己的烦恼。不要因为众生的无知，而痛苦了你自己。
 
-各种漏洞poc、Exp的收集或编写
-https://github.com/coffeehb/Some-PoC-oR-ExP
+Wscan：开源web安全评估工具，具备机器学习的漏洞检测和自动化测试。
+https://github.com/chushuai/wscan
 
-这个仓库包含了CVE-2023-36427的报告和漏洞利用代码，该漏洞在Windows的根分区上导致任意物理地址的内存破坏
-https://github.com/tandasat/CVE-2023-36427
+基于 Json 、自定义Go脚本的快速漏洞验证工具
+https://github.com/TonyD0g/GoPoc
 
-.NET实现的shellcode加载器大集合，不断更新中
-https://github.com/Ivan1ee/.NET4Loader
+Spring漏洞综合利用工具
+https://github.com/savior-only/Spring_All_Reachable
 
-纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token 
-https://github.com/ztxz16/fastllm
+实战场景较通用的 Java Rce 相关漏洞的利用方式
+https://github.com/Whoopsunix/JavaRce
 
-PC端微信逆向学习，本项目是逆向练习项目
-https://github.com/ttttupup/wxhelper
+一款支持高度自定义的 Java 内存马生成工具
+https://github.com/pen4uin/java-memshell-generator-release
 
-只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
-https://github.com/xxxxxxxx666/WeChatDevTools
+通过魔改 rustdesk，实现了一个实验性质的 rustdesk-hvnc
+https://github.com/EddieIvan01/rustdesk-hvnc
 
-免费的 ChatGPT 镜像网站列表，持续更新
-https://github.com/LiLittleCat/awesome-free-chatgpt
+一个使用C#编写的简易Web服务器
+https://github.com/qinyuanpei/HttpServer
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
