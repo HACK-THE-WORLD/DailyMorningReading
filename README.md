@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：不要因为众生的愚疑，而带来了自己的烦恼。不要因为众生的无知，而痛苦了你自己。
+今日短句：忌妒别人，不会给自己增加任何的好处。忌妒别人，也不可能减少别人的成就。­
 
-Wscan：开源web安全评估工具，具备机器学习的漏洞检测和自动化测试。
-https://github.com/chushuai/wscan
+EHole(棱洞)魔改。可对识别出来的重点资产进行漏洞检测
+https://github.com/lemonlove7/EHole_magic
 
-基于 Json 、自定义Go脚本的快速漏洞验证工具
-https://github.com/TonyD0g/GoPoc
+Choccy是一个用于监控GitHub仓库更新并自动对其进行CodeQL分析扫描的项目
+https://github.com/l3yx/Choccy
 
-Spring漏洞综合利用工具
-https://github.com/savior-only/Spring_All_Reachable
+一款不断收集用户体验和功能增改的内网信息收集工具
+https://github.com/cc7v/NetInfo
 
-实战场景较通用的 Java Rce 相关漏洞的利用方式
-https://github.com/Whoopsunix/JavaRce
+Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+https://github.com/phodal/prompt-patterns
 
-一款支持高度自定义的 Java 内存马生成工具
-https://github.com/pen4uin/java-memshell-generator-release
+开屏跳过-安卓系统的开屏广告自动跳过助手
+https://github.com/zfdang/Android-Touch-Helper
 
-通过魔改 rustdesk，实现了一个实验性质的 rustdesk-hvnc
-https://github.com/EddieIvan01/rustdesk-hvnc
+Hamibot 是一款 Android 平台 JavaScript 自动化工具，无需 root，基于 Auto.js。
+https://github.com/hamibot/hamibot
 
-一个使用C#编写的简易Web服务器
-https://github.com/qinyuanpei/HttpServer
+安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+https://github.com/SuperMonster003/AutoJs6
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
