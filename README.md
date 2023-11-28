@@ -4,7 +4,7 @@
 
 ## 今日早读
 
-今日短句：诚者，天之道也；思诚者，人之道也。
+今日短句：温故而知新，可以为师矣。
 
 JavaScript远程调用(rpc)浏览器方法，免去抠代码补环境
 https://github.com/jxhczhl/JsRpc
