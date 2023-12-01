@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：严以律己，宽以待人。
+今日短句：优秀的程序员写出的代码就像优美的诗歌。
 
-集Fofa、Hunter鹰图、Shodan、360 quake、Zoomeye 钟馗之眼、censys 为一体的空间测绘gui图形界面化工具
-https://github.com/G3et/Search_Viewer
+一种针对Microsoft IIS（Internet Information Services）的本地后门模块
+https://github.com/0x09AL/IIS-Raid
 
-使用go语言实现nc的命令执行, 完美解决tcp粘包
-https://github.com/1derian/go-nc
+Nacos漏洞综合利用GUI工具
+https://github.com/charonlight/NacosExploitGUI
 
-一个用Rust编写的快速扫描客户端原型链污染漏洞的工具
-https://github.com/dwisiswant0/ppfuzz
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+https://github.com/LC044/WeChatMsg
 
-毒液爬行器：专为捡洞而生的爬虫神器
-https://github.com/z-bool/Venom-Crawler
+基于 Babel 的 JS AST 分析器和处理器
+https://github.com/echo094/decode-js、
 
-规则数据库：规则用于检测敏感信息、API密钥、密码、令牌等。
-https://github.com/mazen160/secrets-patterns-db
+eBPF 开发者教程与知识库
+https://github.com/eunomia-bpf/bpf-developer-tutorial
 
-Fuzzotron是一个简单的网络模糊测试工具，支持TCP、UDP和多线程。
-https://github.com/denandz/fuzzotron
-
-现代C++编程课程（C++11/14/17/20）
-https://github.com/federico-busato/Modern-CPP-Programming
+年会大屏抽奖项目
+https://github.com/vitozyf/lucky-draw
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
