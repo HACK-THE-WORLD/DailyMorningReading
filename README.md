@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：优秀的程序员写出的代码就像优美的诗歌。
+今日短句：别总把自己当主角，不是谁都围着你转的。
 
-一种针对Microsoft IIS（Internet Information Services）的本地后门模块
-https://github.com/0x09AL/IIS-Raid
+这是一个为所有编程语言、配置文件、构建工具等提供静态分析（SAST）工具和代码检查工具的精选列表
+https://github.com/analysis-tools-dev/static-analysis
 
-Nacos漏洞综合利用GUI工具
-https://github.com/charonlight/NacosExploitGUI
+Wscan扫描器POC模块旨在为Wscan扫描器提供丰富的POC插件集合。
+https://github.com/chushuai/wscan-poc
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-https://github.com/LC044/WeChatMsg
+go-exploit是一个基于Go语言的漏洞利用开发框架。
+https://github.com/vulncheck-oss/go-exploit
 
-基于 Babel 的 JS AST 分析器和处理器
-https://github.com/echo094/decode-js、
+在登录Outlook 网页版账号后，该Burp插件能够自动爬取所有联系人的信息，快速收集目标邮箱和个人信息。
+https://github.com/KrystianLi/ExchangeOWA
 
-eBPF 开发者教程与知识库
-https://github.com/eunomia-bpf/bpf-developer-tutorial
+这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理
+https://github.com/Cc28256/CcRemote
 
-年会大屏抽奖项目
-https://github.com/vitozyf/lucky-draw
+纯粹的Windows右键菜单管理程序
+https://github.com/BluePointLilac/ContextMenuManager
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
