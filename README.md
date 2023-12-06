@@ -4,24 +4,21 @@
 
 ## 今日早读
 
-今日短句：所谓万丈深渊，下去，也是前程万里。
+今日短句：你的时间有限，所以不要浪费时间活在别人的生活中。
 
-qiling：二进制仿真框架，可用于IoT漏洞挖掘
-https://github.com/qilingframework/qiling
+用java，采用rasp同样的方式，hook住jvm后查杀内存马
+https://github.com/AfterSnows/ApricusFindEvil
 
-一键免杀冰蝎、哥斯拉等webshel​​l的php、jsp木马文件
-https://github.com/xiaogang000/XG_NTAI
+JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
+https://github.com/qi4L/JYso
 
-基于CSharp编写的C2平台
-https://github.com/DragoQCC/HardHatC2
+Go语言编写的高性能端口扫描器
+https://github.com/XinRoom/go-portScan
 
-MobaXterm 简体中文汉化版
-https://github.com/RipplePiam/MobaXterm-Chinese-Simplified
+nuclei 检测 POC
+https://github.com/UltimateSec/ultimaste-nuclei-templates
 
-中文 prompt 精选，提升 ChatGPT 可玩性和可用性！
-https://github.com/yzfly/wonderful-prompts
-
-现代 C++ 与高性能计算相关知识（高性能并行编程与优化 - 课件）
-https://github.com/parallel101/course
+收集的一些安全类文章，可离线使用
+https://github.com/MrWQ/vulnerability-paper
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
