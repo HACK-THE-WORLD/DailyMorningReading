@@ -4,21 +4,24 @@
 
 ## 今日早读
 
-今日短句：你的时间有限，所以不要浪费时间活在别人的生活中。
+今日短句：不经一番寒彻骨，怎得梅花扑鼻香。
 
-用java，采用rasp同样的方式，hook住jvm后查杀内存马
-https://github.com/AfterSnows/ApricusFindEvil
+自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
+https://github.com/ExpLangcn/NucleiTP
 
-JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
-https://github.com/qi4L/JYso
+滥用zam64.sys驱动程序终止所有EDR/XDR/AVs进程。
+https://github.com/ZeroMemoryEx/Terminator
 
-Go语言编写的高性能端口扫描器
-https://github.com/XinRoom/go-portScan
+基于springboot的快速学习示例,整合自己遇到的开源框架
+https://github.com/vector4wang/spring-boot-quick
 
-nuclei 检测 POC
-https://github.com/UltimateSec/ultimaste-nuclei-templates
+Aya是一个面向Rust编程语言的eBPF库
+https://github.com/aya-rs/aya
 
-收集的一些安全类文章，可离线使用
-https://github.com/MrWQ/vulnerability-paper
+为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
+https://github.com/RealKai42/qwerty-learner
+
+JetBrains系列软件激活码
+https://github.com/superbeyone/JetBrainsActiveCode
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
