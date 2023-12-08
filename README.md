@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：不经一番寒彻骨，怎得梅花扑鼻香。
+今日短句：路漫漫其修远兮，吾将上下而求索。
 
-自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
-https://github.com/ExpLangcn/NucleiTP
+FilelessAgentMemShell是一款用于自定义生成用于注入Agent内存马的classFile的小工具
+https://github.com/whocansee/FilelessAgentMemShell
 
-滥用zam64.sys驱动程序终止所有EDR/XDR/AVs进程。
-https://github.com/ZeroMemoryEx/Terminator
+用于检测maven项目的第三方依赖组件是否存在安全漏洞。
+https://github.com/momosecurity/mosec-maven-plugin
 
-基于springboot的快速学习示例,整合自己遇到的开源框架
-https://github.com/vector4wang/spring-boot-quick
+CISSP学习笔记
+https://github.com/wuzukang/CISSP
 
-Aya是一个面向Rust编程语言的eBPF库
-https://github.com/aya-rs/aya
+文本盲水印：把信息隐匿到文本中
+https://github.com/guofei9987/text_blind_watermark
 
-为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
-https://github.com/RealKai42/qwerty-learner
+生成Java代码的完整调用图。
+https://github.com/Adrninistrator/java-all-call-graph
 
-JetBrains系列软件激活码
-https://github.com/superbeyone/JetBrainsActiveCode
+VMP完整源代码
+https://github.com/jmpoep/vmprotect-3.5.1
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
