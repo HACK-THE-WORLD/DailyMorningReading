@@ -4,24 +4,27 @@
 
 ## 今日早读
 
-今日短句：路漫漫其修远兮，吾将上下而求索。
+今日短句：学而不思则罔，思而不学则殆。
 
-FilelessAgentMemShell是一款用于自定义生成用于注入Agent内存马的classFile的小工具
-https://github.com/whocansee/FilelessAgentMemShell
+将中文汉字姓名转成11种格式拼音，用于爆破字典
+https://github.com/abc123info/UserNameDictTools
 
-用于检测maven项目的第三方依赖组件是否存在安全漏洞。
-https://github.com/momosecurity/mosec-maven-plugin
+Windows内核安全与驱动开发书附赠的光盘源码
+https://github.com/dybb8999/Windows-kernel-security-and-driver-development-CD
 
-CISSP学习笔记
-https://github.com/wuzukang/CISSP
+通过Unsafe在java层实现-noverify，从而提升字节码指令自由度，对抗反编译器
+https://github.com/luelueking/Bypass_JVM_Verifier
 
-文本盲水印：把信息隐匿到文本中
-https://github.com/guofei9987/text_blind_watermark
+涵盖了 Spring 框架的核心概念和关键功能
+https://github.com/xuchengsheng/spring-reading
 
-生成Java代码的完整调用图。
-https://github.com/Adrninistrator/java-all-call-graph
+一个跨平台的划词翻译和OCR软件
+https://github.com/pot-app/pot-desktop
 
-VMP完整源代码
-https://github.com/jmpoep/vmprotect-3.5.1
+一个由GPT强力驱动的渗透测试工具。
+https://github.com/GreyDGL/PentestGPT
+
+基于深度学习的漏洞检测系统
+https://github.com/CGCL-codes/VulDeePecker
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
