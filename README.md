@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：学而不思则罔，思而不学则殆。
+今日短句：不积跬步，无以至千里。
 
-将中文汉字姓名转成11种格式拼音，用于爆破字典
-https://github.com/abc123info/UserNameDictTools
+基于GIN框架的GO语言漏洞靶场，支持docker一键启动
+https://github.com/godzeo/go-gin-vul
 
-Windows内核安全与驱动开发书附赠的光盘源码
-https://github.com/dybb8999/Windows-kernel-security-and-driver-development-CD
+CI/CD风险分析和漏洞枚举工具
+https://github.com/CycodeLabs/raven
 
-通过Unsafe在java层实现-noverify，从而提升字节码指令自由度，对抗反编译器
-https://github.com/luelueking/Bypass_JVM_Verifier
+包含许多Web和API安全漏洞检查清单
+https://github.com/Az0x7/vulnerability-Checklist
 
-涵盖了 Spring 框架的核心概念和关键功能
-https://github.com/xuchengsheng/spring-reading
+亿赛通电子文档安全管理系统XStream反序列化漏洞任意文件上传利用
+https://github.com/0xf4n9x/CDGXStreamDeserRCE
 
-一个跨平台的划词翻译和OCR软件
-https://github.com/pot-app/pot-desktop
+将所有流量隧道化到WebSocket协议上
+https://github.com/erebe/wstunnel
 
-一个由GPT强力驱动的渗透测试工具。
-https://github.com/GreyDGL/PentestGPT
+ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+https://github.com/bleedline/aimoneyhunter
 
-基于深度学习的漏洞检测系统
-https://github.com/CGCL-codes/VulDeePecker
+LeetCode题解，151道题完整版。
+https://github.com/soulmachine/leetcode
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
