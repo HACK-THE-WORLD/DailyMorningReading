@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：不积跬步，无以至千里。
+今日短句：不以资历论才华，不以年长修身性。
 
-基于GIN框架的GO语言漏洞靶场，支持docker一键启动
-https://github.com/godzeo/go-gin-vul
+Silver：通过解析masscan、nmap数据、生成并行进程、缓存漏洞数据以实现更快的扫描
+https://github.com/s0md3v/Silver
 
-CI/CD风险分析和漏洞枚举工具
-https://github.com/CycodeLabs/raven
+针对渗透测试人员和网络管理员的100个红队项目
+https://github.com/kurogai/100-redteam-projects
 
-包含许多Web和API安全漏洞检查清单
-https://github.com/Az0x7/vulnerability-Checklist
+一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
+https://github.com/0xHJK/dumpall
 
-亿赛通电子文档安全管理系统XStream反序列化漏洞任意文件上传利用
-https://github.com/0xf4n9x/CDGXStreamDeserRCE
+Python逆向工程工具包
+https://github.com/Fadi002/de4py
 
-将所有流量隧道化到WebSocket协议上
-https://github.com/erebe/wstunnel
+用 Rust 编写的极速和强大的代码编辑器。
+https://github.com/lapce/lapce
 
-ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
-https://github.com/bleedline/aimoneyhunter
-
-LeetCode题解，151道题完整版。
-https://github.com/soulmachine/leetcode
+TrollStore：可以永久安装带有任意权限和无签名的IPA
+https://github.com/opa334/TrollStore
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
