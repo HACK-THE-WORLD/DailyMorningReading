@@ -4,24 +4,30 @@
 
 ## 今日早读
 
-今日短句：不以资历论才华，不以年长修身性。
+今日短句：千磨万击还坚劲，任尔东西南北风。
 
-Silver：通过解析masscan、nmap数据、生成并行进程、缓存漏洞数据以实现更快的扫描
-https://github.com/s0md3v/Silver
+HackSys是一个故意设置漏洞的Windows内核驱动。为安全研究人员和爱好者开发，以提升他们在内核级别漏洞利用的技能。
+https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 
-针对渗透测试人员和网络管理员的100个红队项目
-https://github.com/kurogai/100-redteam-projects
+Docker 容器逃逸检测
+https://github.com/teamssix/container-escape-check
 
-一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
-https://github.com/0xHJK/dumpall
+一个利用Windows过滤平台（WFP）来阻止端点检测和响应（EDR）代理向服务器报告安全事件的工具。
+https://github.com/netero1010/EDRSilencer
 
-Python逆向工程工具包
-https://github.com/Fadi002/de4py
+利用动态间接系统调用实现的反射式x64 PE/DLL加载器
+https://github.com/Krypteria/AtlasLdr
 
-用 Rust 编写的极速和强大的代码编辑器。
-https://github.com/lapce/lapce
+基于Rust编写的免杀工具
+https://github.com/TheBlindM/CK-567
 
-TrollStore：可以永久安装带有任意权限和无签名的IPA
-https://github.com/opa334/TrollStore
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+https://github.com/datawhalechina/prompt-engineering-for-developers
+
+一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
+https://github.com/armink/EasyLogger
+
+中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
+https://github.com/lanceliao/china-holiday-calender
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
