@@ -4,30 +4,33 @@
 
 ## 今日早读
 
-今日短句：千磨万击还坚劲，任尔东西南北风。
+今日短句：滴水穿石，不是因力量，而是因坚持。
 
-HackSys是一个故意设置漏洞的Windows内核驱动。为安全研究人员和爱好者开发，以提升他们在内核级别漏洞利用的技能。
-https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+零基础入门V8引擎漏洞挖掘
+https://github.com/ErodedElk/Chaos-me-JavaScript-V8
 
-Docker 容器逃逸检测
-https://github.com/teamssix/container-escape-check
+基于eBPF实现的WebShell/内核马
+https://github.com/veo/ebpf_shell
 
-一个利用Windows过滤平台（WFP）来阻止端点检测和响应（EDR）代理向服务器报告安全事件的工具。
-https://github.com/netero1010/EDRSilencer
+基于Rust实现的微软远程桌面协议
+https://github.com/Devolutions/IronRDP
 
-利用动态间接系统调用实现的反射式x64 PE/DLL加载器
-https://github.com/Krypteria/AtlasLdr
+通过sa-jdi.jar从正在运行的JVM进程中导出class
+https://github.com/hengyunabc/dumpclass
 
-基于Rust编写的免杀工具
-https://github.com/TheBlindM/CK-567
+用于记录企业安全规划，建设，运营，攻防的相关资源
+https://github.com/AnyeDuke/Enterprise-Security-Skill
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-https://github.com/datawhalechina/prompt-engineering-for-developers
+iOS下的系统安全状态仪表盘
+https://github.com/Lessica/Reveil
 
-一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
-https://github.com/armink/EasyLogger
+将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型
+https://github.com/aaamoon/copilot-gpt4-service
 
-中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
-https://github.com/lanceliao/china-holiday-calender
+离线运行的本地语音识别转文字工具
+https://github.com/jianchang512/stt
+
+集成 GPT 问答、Midjourney 绘画等一站式服务的系统
+https://github.com/ZhiShuYun/HubFrontend
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
