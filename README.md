@@ -4,33 +4,24 @@
 
 ## 今日早读
 
-今日短句：滴水穿石，不是因力量，而是因坚持。
+今日短句：立志不坚，无书难读。
 
-零基础入门V8引擎漏洞挖掘
-https://github.com/ErodedElk/Chaos-me-JavaScript-V8
+针对 Windows C++ 的防作弊库
+https://github.com/chztbby/RebirthGuard
 
-基于eBPF实现的WebShell/内核马
-https://github.com/veo/ebpf_shell
+fzf 是一个通用的命令行模糊查找器。
+https://github.com/junegunn/fzf
 
-基于Rust实现的微软远程桌面协议
-https://github.com/Devolutions/IronRDP
+简单易用、足够轻量，避免过多的外部依赖，最低兼容 Window 7 等老系统
+https://github.com/sohaha/zlsgo
 
-通过sa-jdi.jar从正在运行的JVM进程中导出class
-https://github.com/hengyunabc/dumpclass
+一个简单的C++11线程池实现
+https://github.com/progschj/ThreadPool
 
-用于记录企业安全规划，建设，运营，攻防的相关资源
-https://github.com/AnyeDuke/Enterprise-Security-Skill
+攻击面管理平台，发现您环境中隐藏的资产和漏洞
+https://github.com/1N3/Sn1per
 
-iOS下的系统安全状态仪表盘
-https://github.com/Lessica/Reveil
-
-将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型
-https://github.com/aaamoon/copilot-gpt4-service
-
-离线运行的本地语音识别转文字工具
-https://github.com/jianchang512/stt
-
-集成 GPT 问答、Midjourney 绘画等一站式服务的系统
-https://github.com/ZhiShuYun/HubFrontend
+用Python 3和Scapy编写的ICMP反向Shell
+https://github.com/krabelize/icmpdoor
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
