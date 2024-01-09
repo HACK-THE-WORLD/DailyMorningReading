@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：立志不坚，无书难读。
+今日短句：书山有路勤为径，学海无涯苦作舟。
 
-针对 Windows C++ 的防作弊库
-https://github.com/chztbby/RebirthGuard
+APKHunt是一个基于OWASP MASVS框架的全面性Android应用静态代码分析工具。
+https://github.com/Cyber-Buddy/APKHunt
 
-fzf 是一个通用的命令行模糊查找器。
-https://github.com/junegunn/fzf
+eBPFeXPLOIT是一款基于eBPF的渗透利用工具。
+https://github.com/bfengj/eBPFeXPLOIT
 
-简单易用、足够轻量，避免过多的外部依赖，最低兼容 Window 7 等老系统
-https://github.com/sohaha/zlsgo
+Windows PE文件二进制代码混淆器
+https://github.com/es3n1n/obfuscator
 
-一个简单的C++11线程池实现
-https://github.com/progschj/ThreadPool
+一款让你不只在dubbo-sample、vulhub或者其他测试环境里检测和利用成功的Apache Dubbo 漏洞检测工具。
+https://github.com/YYHYlh/Dubbo-Scan
 
-攻击面管理平台，发现您环境中隐藏的资产和漏洞
-https://github.com/1N3/Sn1per
+学习Linux BPF/eBPF 编程
+https://github.com/nevermosby/linux-bpf-learning
 
-用Python 3和Scapy编写的ICMP反向Shell
-https://github.com/krabelize/icmpdoor
+一款可替换beycond compare, 免费使用的代码同步对比工具
+https://github.com/cxasm/cc-compare
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
