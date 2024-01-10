@@ -4,24 +4,27 @@
 
 ## 今日早读
 
-今日短句：书山有路勤为径，学海无涯苦作舟。
+今日短句：你永远赚不到超出你认知范围以外的钱。
 
-APKHunt是一个基于OWASP MASVS框架的全面性Android应用静态代码分析工具。
-https://github.com/Cyber-Buddy/APKHunt
+RCEFuzzer：这是一个以fuzz为中心思想的被动扫描工具
+https://github.com/TheKingOfDuck/RCEFuzzer
 
-eBPFeXPLOIT是一款基于eBPF的渗透利用工具。
-https://github.com/bfengj/eBPFeXPLOIT
+蜜罐抓到的Top密码，根据使用频率排序，持续更新中
+https://github.com/ExpLangcn/HoneypotDic
 
-Windows PE文件二进制代码混淆器
-https://github.com/es3n1n/obfuscator
+免杀Bypass所有静态引擎，如绕过QVM，绕过VT所有静态引擎
+https://github.com/snnxyss/new_in_swor
 
-一款让你不只在dubbo-sample、vulhub或者其他测试环境里检测和利用成功的Apache Dubbo 漏洞检测工具。
-https://github.com/YYHYlh/Dubbo-Scan
+收集云沙箱上线C2的ip，如微X、奇XX、3X0、virustX等
+https://github.com/0x727/CloudSandbox
 
-学习Linux BPF/eBPF 编程
-https://github.com/nevermosby/linux-bpf-learning
+带友好图形用户界面的便携式PE可执行文件逆向工具
+https://github.com/hasherezade/pe-bear
 
-一款可替换beycond compare, 免费使用的代码同步对比工具
-https://github.com/cxasm/cc-compare
+Java源代码混淆器：类名、方法名、字段命名混淆、字符串混淆
+https://github.com/luelueking/JSource-Obfuscator
+
+Windows添加计划任务方法合集
+https://github.com/evilashz/PigScheduleTask
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
