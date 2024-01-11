@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：你永远赚不到超出你认知范围以外的钱。
+今日短句：命运只会在你认命的时候束缚你。
 
-RCEFuzzer：这是一个以fuzz为中心思想的被动扫描工具
-https://github.com/TheKingOfDuck/RCEFuzzer
+分割小工具，可分割木马，一键生成写入、合并、追加命令
+https://github.com/corunb/Split_tools
 
-蜜罐抓到的Top密码，根据使用频率排序，持续更新中
-https://github.com/ExpLangcn/HoneypotDic
+基于flutter框架开发的开源免费抓包软件ProxyPin，支持全平台系统
+https://github.com/wanghongenpin/network_proxy_flutter
 
-免杀Bypass所有静态引擎，如绕过QVM，绕过VT所有静态引擎
-https://github.com/snnxyss/new_in_swor
+本项目旨在系统地介绍如何学习Java ASM的知识
+https://github.com/lsieun/learn-java-asm
 
-收集云沙箱上线C2的ip，如微X、奇XX、3X0、virustX等
-https://github.com/0x727/CloudSandbox
+基于python的网页自动化工具。既能控制浏览器，也能收发数据包
+https://github.com/g1879/DrissionPage
 
-带友好图形用户界面的便携式PE可执行文件逆向工具
-https://github.com/hasherezade/pe-bear
+一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
+https://github.com/Mayandev/where-is-douban250
 
-Java源代码混淆器：类名、方法名、字段命名混淆、字符串混淆
-https://github.com/luelueking/JSource-Obfuscator
-
-Windows添加计划任务方法合集
-https://github.com/evilashz/PigScheduleTask
+Youpk是一款针对Dex整体加固+各式各样的Dex抽取的脱壳机
+https://github.com/Youlor/unpacker
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
