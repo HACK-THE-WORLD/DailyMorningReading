@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：近朱者赤，近墨者黑。
+今日短句：日日行，不怕千万里；常常做，不怕千万事。
 
-AFL的Python接口，允许轻松注入测试用例和其他功能。
-https://github.com/shellphish/fuzzer
+用友全系列漏洞检测，持续更新
+https://github.com/novysodope/fupo_for_yonyou
 
-用于GDB的Python漏洞利用开发辅助工具
-https://github.com/longld/peda
+梳理护网高利用率POC并集成Nuclei模板仓库
+https://github.com/iamHuFei/HVVault
 
-本仓库内容旨在收集二进制安全相关的精品阅读材料，供学习者深入参考学习所用
-https://github.com/0th3rs-Security-Team/Binary-Security-Advanced-References
+主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
+https://github.com/luzhisheng/js_reverse
 
-用于绕过静态检测的逃避式加载器
-https://github.com/Ethicalrat/Evasive-Loader
+结构化的Prompts, 用于各种大语言模型
+https://github.com/lijigang/prompts
 
-Linux内核与设备驱动程序学习笔记
-https://github.com/gatieme/LDD-LinuxDeviceDrivers
+介绍入门级游戏辅助的原理，内附有2018年2月dnf辅助C++源码
+https://github.com/awsay/game-helper
 
-本项目旨在分享大模型相关技术原理以及实战经验
-https://github.com/liguodongiot/llm-action
+minihttp是一个基于libcurl和openssl的简单https/http请求库。
+https://github.com/anhkgg/minihttp
 
-一个方便的glibc二进制和调试文件下载器以及源代码自动构建器
-https://github.com/matrix1001/glibc-all-in-one
+Windows内核模式到用户模式的dll注入，通过内核驱动将dll注入到目标进程中
+https://github.com/Rhydon1337/windows-kernel-dll-injector
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
