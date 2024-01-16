@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：日日行，不怕千万里；常常做，不怕千万事。
+今日短句：在任何行业中，走向成功的第一步，是对它产生兴趣。
 
-用友全系列漏洞检测，持续更新
-https://github.com/novysodope/fupo_for_yonyou
+使用图数据技术发现软件漏洞
+https://github.com/Ramos-dev/graph4code
 
-梳理护网高利用率POC并集成Nuclei模板仓库
-https://github.com/iamHuFei/HVVault
+基于 MITRE ATT&CK™ 和恶意软件行为特征编写而成的火绒自定义防护规则
+https://github.com/JerryLinLinLin/Huorong-ATP-Rules
 
-主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
-https://github.com/luzhisheng/js_reverse
+使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
+https://github.com/4ra1n/code-encryptor
 
-结构化的Prompts, 用于各种大语言模型
-https://github.com/lijigang/prompts
+一个可以快速通过反汇编和反编译APK来提取IP和URL端点的工具
+https://github.com/n0mi1k/apk2url
 
-介绍入门级游戏辅助的原理，内附有2018年2月dnf辅助C++源码
-https://github.com/awsay/game-helper
+基于Go编写的EDR Hook绕过Demo
+https://github.com/qi4L/GoLangUnhooker
 
-minihttp是一个基于libcurl和openssl的简单https/http请求库。
-https://github.com/anhkgg/minihttp
+一种通过进程注入实现强制关闭部分杀软进程的方法
+https://github.com/1y0n/AVKiller
 
-Windows内核模式到用户模式的dll注入，通过内核驱动将dll注入到目标进程中
-https://github.com/Rhydon1337/windows-kernel-dll-injector
+Nuitka是一个用Python编写的Python编译器
+https://github.com/Nuitka/Nuitka
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
