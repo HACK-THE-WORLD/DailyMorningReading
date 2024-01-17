@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：在任何行业中，走向成功的第一步，是对它产生兴趣。
+今日短句：路漫漫其修远兮，吾将上下而求索。
 
-使用图数据技术发现软件漏洞
-https://github.com/Ramos-dev/graph4code
+基于grep粗略扫描的源代码审计工具
+https://github.com/wireghoul/graudit
 
-基于 MITRE ATT&CK™ 和恶意软件行为特征编写而成的火绒自定义防护规则
-https://github.com/JerryLinLinLin/Huorong-ATP-Rules
+SaGe是一个浏览器模糊测试工具，可以有效地探索浏览器的语义。
+https://github.com/ChijinZ/SaGe-Browser-Fuzzer
 
-使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码
-https://github.com/4ra1n/code-encryptor
+JavaScript Raider是一个面向v8 JavaScript引擎设计的覆盖率引导的JavaScript模糊测试框架。
+https://github.com/freingruber/JavaScript-Raider
 
-一个可以快速通过反汇编和反编译APK来提取IP和URL端点的工具
-https://github.com/n0mi1k/apk2url
+DotDotPwn，用于发现目录遍历漏洞的模糊测试工具
+https://github.com/wireghoul/dotdotpwn
 
-基于Go编写的EDR Hook绕过Demo
-https://github.com/qi4L/GoLangUnhooker
+记录一下 Java 安全学习历程（学习路线）
+https://github.com/Drun1baby/JavaSecurityLearning
 
-一种通过进程注入实现强制关闭部分杀软进程的方法
-https://github.com/1y0n/AVKiller
+汇总各厂商上市的手机型号与对应的宣传名。
+https://github.com/KHwang9883/MobileModels
 
-Nuitka是一个用Python编写的Python编译器
-https://github.com/Nuitka/Nuitka
+专为程序员编写的英语学习指南
+https://github.com/yujiangshui/A-Programmers-Guide-to-English
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
