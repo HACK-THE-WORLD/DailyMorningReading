@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：路漫漫其修远兮，吾将上下而求索。
+今日短句：诚者，天之道也；思诚者，人之道也。
 
-基于grep粗略扫描的源代码审计工具
-https://github.com/wireghoul/graudit
+非付费会员的FOFA数据采集工具
+https://github.com/Cl0udG0d/Fofa-hack
 
-SaGe是一个浏览器模糊测试工具，可以有效地探索浏览器的语义。
-https://github.com/ChijinZ/SaGe-Browser-Fuzzer
+使用Java编写的漏洞POC集合，主要用于Java应用漏洞的分析调试。
+https://github.com/pacemrc/VulDebug
 
-JavaScript Raider是一个面向v8 JavaScript引擎设计的覆盖率引导的JavaScript模糊测试框架。
-https://github.com/freingruber/JavaScript-Raider
+用于在提取的固件文件系统中搜索的脚本
+https://github.com/craigz28/firmwalker
 
-DotDotPwn，用于发现目录遍历漏洞的模糊测试工具
-https://github.com/wireghoul/dotdotpwn
+压缩包炸弹生成工具
+https://github.com/CreeperKong/zipbomb-generator
 
-记录一下 Java 安全学习历程（学习路线）
-https://github.com/Drun1baby/JavaSecurityLearning
+工信部合规检测Xposed模块源码
+https://github.com/ChenJunsen/Hegui3.0
 
-汇总各厂商上市的手机型号与对应的宣传名。
-https://github.com/KHwang9883/MobileModels
+Python实现批量查询网站的百度权重以及收录情况。
+https://github.com/sqlsec/seo
 
-专为程序员编写的英语学习指南
-https://github.com/yujiangshui/A-Programmers-Guide-to-English
+使用Python调用微信本地ocr服务
+https://github.com/kanadeblisst00/wechat_ocr
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
