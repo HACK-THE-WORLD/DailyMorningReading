@@ -4,27 +4,30 @@
 
 ## 今日早读
 
-今日短句：诚实是人生的命脉，是一切价值的根基。
+今日短句：人之所以能，是相信能。
 
-这个仓库是一个工具，用来创建一个.suo文件，当由Visual Studio运行时，可以实现代码执行。
-https://github.com/moom825/visualstudio-suo-exploit
+iOS安全资料整理
+https://github.com/satan1a/awesome-ios-security-cn
 
-一款自动化分析网络安全应急响应工具
-https://github.com/FindAllTeam/FindAll
+一款 FaaS/BaaS 实现的 Serverless 云渗透工具集
+https://github.com/DVKunion/SeaMoon
 
-用于网页前端的远程调试工具
-https://github.com/liriliri/chii
+Nessus扫描报告自动化生成工具
+https://github.com/Hypdncy/NessusToReport
 
-反爬虫JS破解与混淆还原手册
-https://github.com/LoseNine/Restore-JS
+容器安全漏洞的分析与复现
+https://github.com/h4ckm310n/Container-Vulnerability-Exploit
 
-Go语言可用于安全测试的非标准HTTP协议解析库
-https://github.com/chaitin/blazehttp
+根据apnic数据文件制作的海外网段信息
+https://github.com/rehiy/ip-area-route
 
-二进制安全入门相关书籍PDF
-https://github.com/sdutjava1604/binary-introductory-books-for-beginners
+《30天自制操作系统》源码中文版
+https://github.com/yourtion/30dayMakeOS
 
-遂以 subfinder 为基础，融合 ksubdomain、 Amass 的一些优点进行二次开发的一款子域名收集工具
-https://github.com/ZhuriLab/Starmap
+一款基于java语言，使用Springboot + Mongodb + Groovy + Es等框架搭建的轻量级实时风控引擎
+https://github.com/wfh45678/radar
+
+Java并发知识点总结
+https://github.com/CL0610/Java-concurrency
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
