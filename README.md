@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：人之所以能，是相信能。
+今日短句：有志者自有千方百计，无志者只感千难万难。
 
-iOS安全资料整理
-https://github.com/satan1a/awesome-ios-security-cn
+本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。
+https://github.com/APKSecurity/APKSecurity
 
-一款 FaaS/BaaS 实现的 Serverless 云渗透工具集
-https://github.com/DVKunion/SeaMoon
+使用分支对抗技术制作的PHP Webshell
+https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP
 
-Nessus扫描报告自动化生成工具
-https://github.com/Hypdncy/NessusToReport
+一个用于检测Android中与自定义权限相关的权限升级漏洞的黑盒模糊测试器。
+https://github.com/little-leiry/CuPerFuzzer
 
-容器安全漏洞的分析与复现
-https://github.com/h4ckm310n/Container-Vulnerability-Exploit
+一款纯C实现的基于socks5协议的轻量内网穿透工具
+https://github.com/P001water/yuze
 
-根据apnic数据文件制作的海外网段信息
-https://github.com/rehiy/ip-area-route
+一个可以使用SetWindowsHookEx将dll注入到受防作弊保护的游戏进程中的注入器。
+https://github.com/M-r-J-o-h-n/SWH-Injector
 
-《30天自制操作系统》源码中文版
-https://github.com/yourtion/30dayMakeOS
+WatchAD2.0是一款针对域威胁的日志分析与监控系统
+https://github.com/Qihoo360/WatchAD2.0
 
-一款基于java语言，使用Springboot + Mongodb + Groovy + Es等框架搭建的轻量级实时风控引擎
-https://github.com/wfh45678/radar
-
-Java并发知识点总结
-https://github.com/CL0610/Java-concurrency
+逆向工程的资源集合
+https://github.com/HACKE-RC/awesome-reversing
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
