@@ -6,25 +6,25 @@
 
 今日短句：有志者自有千方百计，无志者只感千难万难。
 
-本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。
-https://github.com/APKSecurity/APKSecurity
+CVE导航，用于快速寻找到相关的组件漏洞信息
+https://github.com/projectdiscovery/cvemap
 
-使用分支对抗技术制作的PHP Webshell
-https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP
+Top500 安全面试题
+https://github.com/tangxiaofeng7/Security_Q-A
 
-一个用于检测Android中与自定义权限相关的权限升级漏洞的黑盒模糊测试器。
-https://github.com/little-leiry/CuPerFuzzer
+golang实现的一个编译器，用来编译一个自己创建的语言
+https://github.com/elvin-du/tinyscript
 
-一款纯C实现的基于socks5协议的轻量内网穿透工具
-https://github.com/P001water/yuze
+多功能 java agent 内存马
+https://github.com/veo/vagent
 
-一个可以使用SetWindowsHookEx将dll注入到受防作弊保护的游戏进程中的注入器。
-https://github.com/M-r-J-o-h-n/SWH-Injector
+本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。
+https://github.com/p1d3er/RemoteWebScreen
 
-WatchAD2.0是一款针对域威胁的日志分析与监控系统
-https://github.com/Qihoo360/WatchAD2.0
+月光宝盒：无侵入的流量录制与回放平台
+https://github.com/vivo/MoonBox
 
-逆向工程的资源集合
-https://github.com/HACKE-RC/awesome-reversing
+一款功能强大无数据库的图床
+https://github.com/icret/EasyImages2.0
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
