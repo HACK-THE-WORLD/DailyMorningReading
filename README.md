@@ -4,27 +4,30 @@
 
 ## 今日早读
 
-今日短句：有志者自有千方百计，无志者只感千难万难。
+今日短句：我们永远不要在自己从事的专业上附着不加边际的价值。
 
-CVE导航，用于快速寻找到相关的组件漏洞信息
-https://github.com/projectdiscovery/cvemap
+记录国内外互联网公司和电信企业P0级别的重大故障
+https://github.com/smallnest/breakdown
 
-Top500 安全面试题
-https://github.com/tangxiaofeng7/Security_Q-A
+一个用于Bug赏金、Web应用安全和渗透测试的Google Dorks列表。
+https://github.com/TakSec/google-dorks-bug-bounty
 
-golang实现的一个编译器，用来编译一个自己创建的语言
-https://github.com/elvin-du/tinyscript
+根据Windows操作系统systeminfo输出的信息，比对输出易受攻击的漏洞列表，包括这些漏洞的所有攻击工具。
+https://github.com/bitsadmin/wesng
 
-多功能 java agent 内存马
-https://github.com/veo/vagent
+二进制渗透题目汇总
+https://github.com/WangYihang/PwnMe
 
-本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。
-https://github.com/p1d3er/RemoteWebScreen
+分享一些关于虚拟机和QEMU逃逸漏洞的文章
+https://github.com/WinMin/awesome-vm-exploit
 
-月光宝盒：无侵入的流量录制与回放平台
-https://github.com/vivo/MoonBox
+一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。
+https://github.com/Garck3h/cve-2023-38831
 
-一款功能强大无数据库的图床
-https://github.com/icret/EasyImages2.0
+i茅台app自动预约，每日自动预约，支持docker一键部署
+https://github.com/oddfar/campus-imaotai
+
+幻兽帕鲁逆向笔记
+https://github.com/burpheart/Palworld-Reverse-Note
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
