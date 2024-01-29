@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：我们永远不要在自己从事的专业上附着不加边际的价值。
+今日短句：常怀敬畏之心，方能行有所止
 
-记录国内外互联网公司和电信企业P0级别的重大故障
-https://github.com/smallnest/breakdown
+AFL.RS允许在用Rust编程语言编写的代码上运行AFLplusplus
+https://github.com/rust-fuzz/afl.rs
 
-一个用于Bug赏金、Web应用安全和渗透测试的Google Dorks列表。
-https://github.com/TakSec/google-dorks-bug-bounty
+Confluence 漏洞利用工具，支持命令执行、内存马注入
+https://github.com/Lotus6/ConfluenceMemshell
 
-根据Windows操作系统systeminfo输出的信息，比对输出易受攻击的漏洞列表，包括这些漏洞的所有攻击工具。
-https://github.com/bitsadmin/wesng
+Chrome XXE 单文件利用
+https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE
 
-二进制渗透题目汇总
-https://github.com/WangYihang/PwnMe
+通过jsp注入valve内存马，可以忽略框架影响，通用tomcat789
+https://github.com/Ghost2097221/addMemShellsJSP
 
-分享一些关于虚拟机和QEMU逃逸漏洞的文章
-https://github.com/WinMin/awesome-vm-exploit
+WiFi审计软件，可以执行死亡攻击和密码破解
+https://github.com/martin-olivier/airgorah
 
-一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。
-https://github.com/Garck3h/cve-2023-38831
+stackplz是一款基于eBPF的堆栈追踪工具，仅适用于Android平台
+https://github.com/SeeFlowerX/stackplz
 
-i茅台app自动预约，每日自动预约，支持docker一键部署
-https://github.com/oddfar/campus-imaotai
-
-幻兽帕鲁逆向笔记
-https://github.com/burpheart/Palworld-Reverse-Note
+个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料
+https://github.com/Hansimov/csapp
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
