@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：常怀敬畏之心，方能行有所止
+今日短句：君子言行如一，自律坚守，方显品格修为。
 
-AFL.RS允许在用Rust编程语言编写的代码上运行AFLplusplus
-https://github.com/rust-fuzz/afl.rs
+跨平台的自动检测和利用SQL注入漏洞的工具（SQLmap替代方案）
+https://github.com/r0oth3x49/ghauri
 
-Confluence 漏洞利用工具，支持命令执行、内存马注入
-https://github.com/Lotus6/ConfluenceMemshell
+移动端CTF体系化、实战化的成长路径规划图
+https://github.com/r0ysue/MobileCTF
 
-Chrome XXE 单文件利用
-https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE
+将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。
+https://github.com/ba0gu0/520apkhook
 
-通过jsp注入valve内存马，可以忽略框架影响，通用tomcat789
-https://github.com/Ghost2097221/addMemShellsJSP
+x64dbg插件，用于反反调试
+https://github.com/VenTaz/Themidie
 
-WiFi审计软件，可以执行死亡攻击和密码破解
-https://github.com/martin-olivier/airgorah
+Rust语言安全相关分析
+https://github.com/xxg1413/rust-security
 
-stackplz是一款基于eBPF的堆栈追踪工具，仅适用于Android平台
-https://github.com/SeeFlowerX/stackplz
-
-个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料
-https://github.com/Hansimov/csapp
+一个高效的，基于Rust的HTTP库
+https://github.com/hyperium/hyper
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
