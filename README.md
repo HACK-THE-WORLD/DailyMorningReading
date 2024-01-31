@@ -4,24 +4,30 @@
 
 ## 今日早读
 
-今日短句：君子言行如一，自律坚守，方显品格修为。
+今日短句：在施予善意与同情时，我们要做好心理准备，可能会遭遇没有回报甚至被人利用的情况。
 
-跨平台的自动检测和利用SQL注入漏洞的工具（SQLmap替代方案）
-https://github.com/r0oth3x49/ghauri
+收集一些物联网相关的安全文章，包括漏洞分析、安全会议、论文等。
+https://github.com/H4lo/awesome-IoT-security-article
 
-移动端CTF体系化、实战化的成长路径规划图
-https://github.com/r0ysue/MobileCTF
+一个能够利用MSSQL的xp_cmdshell功能来进行流量代理的脚本
+https://github.com/Anion3r/MSSQLProxy
 
-将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。
-https://github.com/ba0gu0/520apkhook
+记录自己对《代码审计》的理解和总结
+https://github.com/jiangsir404/Audit-Learning
 
-x64dbg插件，用于反反调试
-https://github.com/VenTaz/Themidie
+2023HW漏洞整理，收集整理漏洞EXP/POC
+https://github.com/wy876/POC
 
-Rust语言安全相关分析
-https://github.com/xxg1413/rust-security
+Struts2全版本漏洞检测工具
+https://github.com/abc123info/Struts2VulsScanTools
 
-一个高效的，基于Rust的HTTP库
-https://github.com/hyperium/hyper
+USB键盘流量包取证工具 , 用于恢复用户的击键信息
+https://github.com/WangYihang/UsbKeyboardDataHacker
+
+一款强大的Java Web数据脱敏插件，支持多种脱敏策略
+https://github.com/lzhpo/sensitive-spring-boot-starter
+
+一个物联网(IoT)开发的入门教程
+https://github.com/nladuo/IoT-Firstep
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
