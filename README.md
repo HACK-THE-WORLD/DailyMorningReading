@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：在施予善意与同情时，我们要做好心理准备，可能会遭遇没有回报甚至被人利用的情况。
+今日短句：年年岁岁花相似，岁岁年年人不同。
 
-收集一些物联网相关的安全文章，包括漏洞分析、安全会议、论文等。
-https://github.com/H4lo/awesome-IoT-security-article
+零基础学fastjson漏洞（基础篇）
+https://github.com/W01fh4cker/LearnFastjsonVulnFromZero-Basic
 
-一个能够利用MSSQL的xp_cmdshell功能来进行流量代理的脚本
-https://github.com/Anion3r/MSSQLProxy
+一个样本，通过模拟过父占用vt的方式削弱360，之后到达kill360的目的
+https://github.com/snnxyss/kill-360
 
-记录自己对《代码审计》的理解和总结
-https://github.com/jiangsir404/Audit-Learning
+非编译时代码混淆，包括代码块拆分、代码乱序、常量加密、代码变异、抹除jcc、局部混淆等，主要提供框架以及思路
+https://github.com/mizukiyyds/asm_obfuscator
 
-2023HW漏洞整理，收集整理漏洞EXP/POC
-https://github.com/wy876/POC
+linux下一款强大的应急响应工具
+https://github.com/wgpsec/whohk
 
-Struts2全版本漏洞检测工具
-https://github.com/abc123info/Struts2VulsScanTools
+SqlmapXPlus 基于 Sqlmap，对经典的数据库漏洞利用工具进行二开，参考各种解决方法，增加MSSQL数据库注入的利用方式。
+https://github.com/co01cat/SqlmapXPlus
 
-USB键盘流量包取证工具 , 用于恢复用户的击键信息
-https://github.com/WangYihang/UsbKeyboardDataHacker
+网安类绝版图书
+https://github.com/apachecn/sec-books-part1
 
-一款强大的Java Web数据脱敏插件，支持多种脱敏策略
-https://github.com/lzhpo/sensitive-spring-boot-starter
-
-一个物联网(IoT)开发的入门教程
-https://github.com/nladuo/IoT-Firstep
+信息收集工具
+https://github.com/niudaii/zpscan
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
