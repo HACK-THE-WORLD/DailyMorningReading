@@ -4,27 +4,30 @@
 
 ## 今日早读
 
-今日短句：踩着别人脚步走路的人，永远不会留下自己的脚印。
+今日短句：你认为这个世界没有一个好人，谁也帮不了你，为什么你不自己帮自己。
 
-ASPX内存执行shellcode,绕过Windows Defender（AV/EDR）
-https://github.com/INotGreen/Webshell-loader
+收集、整理、修改互联网上公开的漏洞POC
+https://github.com/lal0ne/vulnerability
 
-Yagi：集成Ghidra于IDA上的插件，通过F3即可调用
-https://github.com/airbus-cert/Yagi
+完全零基础从0到1掌握Java内存马
+https://github.com/W01fh4cker/LearnJavaMemshellFromZero
 
-cve-rs允许您以内存安全的方式将常见的内存漏洞(例如缓冲区溢出和段错误)引入Rust程序。
-https://github.com/Speykious/cve-rs
+一款集成高危漏洞exp的实用性工具
+https://github.com/cseroad/Exp-Tools
 
-基于模板的shellcode封装器，用Rust编写，支持间接系统调用。
-https://github.com/Nariod/RustPacker
+Flutter移动应用程序逆向工程工具
+https://github.com/stars/ljahum/lists/reverse-engineering
 
-一个Rust编译器插件，用于在编译时加密字符串文字。
-https://github.com/anvie/litcrypt.rs
+一个记录我Java安全学习过程的仓库，本仓库不是真正意义上的教学仓
+https://github.com/Y4tacker/JavaSec
 
-中国独立开发者项目列表
-https://github.com/1c7/chinese-independent-developer
+精益副业：程序员如何优雅地做副业
+https://github.com/easychen/lean-side-bussiness
 
-Go语言编写的成熟的从文本中提取url工具
-https://github.com/mvdan/xurls
+中国亲戚关系计算器 - 家庭称谓/亲戚称呼
+https://github.com/mumuy/relationship
+
+中文技术文档的写作规范
+https://github.com/ruanyf/document-style-guide
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
