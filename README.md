@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：你认为这个世界没有一个好人，谁也帮不了你，为什么你不自己帮自己。
+今日短句：你可以迷茫，但请你不要虚度。
 
-收集、整理、修改互联网上公开的漏洞POC
-https://github.com/lal0ne/vulnerability
+一个基于Rust编写的NVD相关的工作库，如通用漏洞评分系统、通用漏洞披露
+https://github.com/emo-crab/scap-rs
 
-完全零基础从0到1掌握Java内存马
-https://github.com/W01fh4cker/LearnJavaMemshellFromZero
+浏览器插件：在网页上标记CVE，并在最后添加一个详细的链接按钮
+https://github.com/cn-kali-team/mark-cve
 
-一款集成高危漏洞exp的实用性工具
-https://github.com/cseroad/Exp-Tools
+通过劫持AppVerifier层，防止EDR将dll挂接或加载到我们的进程中
+https://github.com/MalwareTech/EDR-Preloader
 
-Flutter移动应用程序逆向工程工具
-https://github.com/stars/ljahum/lists/reverse-engineering
+基于Spring+Netty+Swing编写的远程桌面控制
+https://github.com/Cool-Coding/remote-desktop-control
 
-一个记录我Java安全学习过程的仓库，本仓库不是真正意义上的教学仓
-https://github.com/Y4tacker/JavaSec
+jws-cli 是一款基于python的可拓展、可定制化的一键信息收集工具
+https://github.com/jammny/jws-cli
 
-精益副业：程序员如何优雅地做副业
-https://github.com/easychen/lean-side-bussiness
+一体化的轻量型跨平台渗透系统
+https://github.com/yqcs/prismx
 
-中国亲戚关系计算器 - 家庭称谓/亲戚称呼
-https://github.com/mumuy/relationship
-
-中文技术文档的写作规范
-https://github.com/ruanyf/document-style-guide
+由Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等多功能的工具
+https://github.com/qiwentaidi/Slack
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
