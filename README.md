@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：你可以迷茫，但请你不要虚度。
+今日短句：时间只能改变那些原本就不坚定的东西。
 
-一个基于Rust编写的NVD相关的工作库，如通用漏洞评分系统、通用漏洞披露
-https://github.com/emo-crab/scap-rs
+一键窃取文件的图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
+https://github.com/INotGreen/SharpThief
 
-浏览器插件：在网页上标记CVE，并在最后添加一个详细的链接按钮
-https://github.com/cn-kali-team/mark-cve
+反IDA分析，通过大量的JMP指令致使IDA崩溃
+https://github.com/Azvanzed/IdaMeme
 
-通过劫持AppVerifier层，防止EDR将dll挂接或加载到我们的进程中
-https://github.com/MalwareTech/EDR-Preloader
+本项目旨在比较和评估各种EDR产品的遥测技术。
+https://github.com/tsale/EDR-Telemetry
 
-基于Spring+Netty+Swing编写的远程桌面控制
-https://github.com/Cool-Coding/remote-desktop-control
+收集GitHub上有关.Net、.NetCore有趣、有用、热门的开源项目。
+https://github.com/bianchenglequ/NetCodeTop
 
-jws-cli 是一款基于python的可拓展、可定制化的一键信息收集工具
-https://github.com/jammny/jws-cli
+Luna AI 是一个由诸多大模型做为大脑驱动的虚拟主播，可在直播中与观众实时互动，或者直接在本地和您进行聊天
+https://github.com/0x648/luna-ai
 
-一体化的轻量型跨平台渗透系统
-https://github.com/yqcs/prismx
+谷歌翻译 API 服务器在中国大陆的 IP 地址扫描、测速工具。
+https://github.com/GoodCoder666/GoogleTranslate_IPFinder
 
-由Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等多功能的工具
-https://github.com/qiwentaidi/Slack
+本repo收集全网爆火的天涯神贴200+篇，全部为不带水印的原始版本，并且包含了地产预言大神kk的全集。
+https://github.com/jiji262/tianya-docs
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
