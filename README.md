@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：时间只能改变那些原本就不坚定的东西。
+今日短句：不因幸运而故步自封，不因厄运而一蹶不振。
 
-一键窃取文件的图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
-https://github.com/INotGreen/SharpThief
+JAVA安全SDK及编码规范
+https://github.com/momosecurity/rhizobia_J
 
-反IDA分析，通过大量的JMP指令致使IDA崩溃
-https://github.com/Azvanzed/IdaMeme
+收集关于红队的相关资源
+https://github.com/tkmru/awesome-edr-bypass
 
-本项目旨在比较和评估各种EDR产品的遥测技术。
-https://github.com/tsale/EDR-Telemetry
+收集关于Bypass EDR的相关资源
+https://github.com/tkmru/awesome-edr-bypass
 
-收集GitHub上有关.Net、.NetCore有趣、有用、热门的开源项目。
-https://github.com/bianchenglequ/NetCodeTop
+Alcatraz是一款 x64 二进制混淆器，能够混淆各种不同的pe文件
+https://github.com/weak1337/Alcatraz
 
-Luna AI 是一个由诸多大模型做为大脑驱动的虚拟主播，可在直播中与观众实时互动，或者直接在本地和您进行聊天
-https://github.com/0x648/luna-ai
+MultiDump是一个用C语言编写的后渗透工具，它可以在不触发Defender警报的情况下，以一种低调的方式提取LSASS内存。
+https://github.com/Xre0uS/MultiDump
 
-谷歌翻译 API 服务器在中国大陆的 IP 地址扫描、测速工具。
-https://github.com/GoodCoder666/GoogleTranslate_IPFinder
+Go 开发的开源互联网搜索引擎，附教程
+https://github.com/johnlui/DIYSearchEngine
 
-本repo收集全网爆火的天涯神贴200+篇，全部为不带水印的原始版本，并且包含了地产预言大神kk的全集。
-https://github.com/jiji262/tianya-docs
+一个简单快速的分词、命名实体识别工具
+https://github.com/liwenju0/cutword
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
