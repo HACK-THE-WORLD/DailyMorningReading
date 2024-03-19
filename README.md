@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：不因幸运而故步自封，不因厄运而一蹶不振。
+今日短句：不委屈自己，不亏欠别人。
 
-JAVA安全SDK及编码规范
-https://github.com/momosecurity/rhizobia_J
+一款集合了诸多OA漏洞验证的工具
+https://github.com/R4gd0ll/I-Wanna-Get-All
 
-收集关于红队的相关资源
-https://github.com/tkmru/awesome-edr-bypass
+用大型语言模型反编译二进制代码
+https://github.com/albertan017/LLM4Decompile
 
-收集关于Bypass EDR的相关资源
-https://github.com/tkmru/awesome-edr-bypass
+支持诸多OA、通用程序的加解密的综合利用后渗透工具
+https://github.com/wafinfo/DecryptTools
 
-Alcatraz是一款 x64 二进制混淆器，能够混淆各种不同的pe文件
-https://github.com/weak1337/Alcatraz
+谷歌爬虫，自动解析谷歌搜索信息
+https://github.com/weishen250/Google-Spider
 
-MultiDump是一个用C语言编写的后渗透工具，它可以在不触发Defender警报的情况下，以一种低调的方式提取LSASS内存。
-https://github.com/Xre0uS/MultiDump
+瑞数vmp纯算法逆向
+https://github.com/pysunday/rs-reverse
 
-Go 开发的开源互联网搜索引擎，附教程
-https://github.com/johnlui/DIYSearchEngine
+一键自动化 下载、安装、激活 Office 的利器。
+https://github.com/OdysseusYuan/LKY_OfficeTools
 
-一个简单快速的分词、命名实体识别工具
-https://github.com/liwenju0/cutword
+windows 扫雷程序外挂（内存挂+模拟挂），用于学习Windows 逆向工程原理
+https://github.com/scuwan/SweepMineScript
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
